@@ -20,6 +20,11 @@
   border-right-width: thick;
 }
 
+h3 {
+  font-family: cursive;
+  font-style: oblique;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
