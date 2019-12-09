@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  font-family: serif;
+}
+
+.FilmBox {
+  font: Helvetica;
+}
+
+.FilmList {
+  border-radius: 5px;
+  border: 2px solid blue;
+  margin: 70px, 70px, 70px, 70px;
+  border-right-width: thick;
+}
+
+.Film {
+  border-radius: 5px;
+  border: 2px solid red;
+  border-right-width: thick;
 }
 
 .App-logo {
